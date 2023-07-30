@@ -1,0 +1,72 @@
+Pergunta: Que companhia produziu o filme 'Up! Altamente !'?#A: Pixar#B: Walt Disney Studios#C: Lusomundo#D: MGM
+Pergunta: O ferro é essencial ao corpo humano porque :#A: Fixa o oxigénio#B: Dá Resistência aos ossos#C: Ajuda a digestão#D: Faz parte do sistema imunológico
+Pergunta: Qual Foi O Cognome do Décimo Segundo Rei De Portugal?#A: O Africano#B: O Eloquente#C: O Desejado#D: O Lavrador
+Pergunta: Qual era o 1º Nome de Picasso?#A: Pablo#B: Diego#C: Jorge#D: Nuno
+Pergunta: Quem foi o 10º rei de portugal?#A: D.João I#B: D. Sancho I#C: D. Fernando#D: D.Sancho II
+Pergunta: Qual é o símbolo Químico Da Prata?#A: Ag#B: Pt#C: Au#D: Zn
+Pergunta: Qual o clube de futebol portugues que venceu mais vezes a Primeira Liga?#A: SL Benfica#B: FC Porto#C: Sporting CP#D: Boavista 
+Pergunta: O Robin dos Bosque vivia:#A: Na Floresta de Sherwood#B: No Bosque de Laurissilva#C: Na Floresta de Ashdown#D: Na Floresta de Burnham Beeches
+Pergunta: Quem é o RicFazeres?#A: Um Youtuber#B: Um comentador de futebol#C: Um Humorista#D: Um Contablista
+Pergunta: Qual o nome completo do famoso RicFazeres?#A: Ricardo Ribeiro Fernandes#B: Paulo Ricardo Xavier de Sousa#C: João de Matos Tibúrcio#D: Ricardo Xavier Fernandes
+Pergunta: Quem foi o campeão do mundo de 2014?#A: Alemanha#B: Portugal#C: Brasil#D: Argentina
+Pergunta: Quem foi o campeão do mundo de 1990?#A: Alemanha#B: Inglaterra#C: Itália#D: França
+Pergunta: Quem marcou golo da vitória de Portugal na final do Europeu de 2016?#A: Éder#B: João Mario#C: Renato Sanches#D: Cristiano Ronaldo
+Pergunta: Qual o ano da morte de José Saramago?#A: 2010#B: 2004#C: 2005#D: 2008
+Pergunta: Qual é o animal nacional da Austrália?#A: Canguru-vermelho#B: Canguru-azul#C: Kuala#D: Chimpanzé
+Pergunta: Quantos dias demora a Terra a orbitar o Sol?#A: 365 dias#B: 364 dias#C: 354 dias#D: 355 dias
+Pergunta: Qual foi a série de livros mais vendida no século XXI?#A: Harry Potter#B: StarWars#C: Tio Patinhas#D: Monica
+Pergunta: Que artista pintou o teto da Capela Sistina em Roma?#A: Michelangelo#B: Pablo Picasso#C: Cristiano Ronaldo#D: Diego Maradona
+Pergunta: Quem lançou o primeiro computador de mesa programável?#A: Olivetti#B: Cristina Ferreira#C: Oliver Benji#D: John Backus
+Pergunta: Que famosa banda pop americana era originalmente chamada de 'Kara’s Flowers'?#A: Maroon 5#B: Os DAMA#C: The beatles#D: Queen
+Pergunta: Que equipa de futebol é conhecida como 'The Red Devils' (Os Diabos Vermelhos)?#A: Manchester United#B: Liverpool#C: Benfica#D: Tondela
+Pergunta: Que piloto de Fórmula 1 ganhou mais campeonatos?#A: Michael Schumacher#B: Jonathan Williams#C: Marcelo Rebelo de Sousa#D: Tiagovski
+Pergunta: Qual era o nome original da marca de roupa Nike?#A: Blue Ribbon Sports#B: Adidas#C: Red Ribbon Sports#D: Xiaomi
+Pergunta: Qual é a primeira longa-metragem da Pixar?#A: Toy Story#B: The Incredibles#C: À procura de Nemo#D: Monstros e Companhia
+Pergunta: Qual era o nome do café na sitcom Friends?#A: Central Perk#B: Rolling Stone#C: O Lusitano#D: A Tasca do Zé
+Pergunta: Qual foi o primeiro filme da Disney?#A: Branca de Neve#B: A Gata Borralheira#C: As Cinquenta Sombras de Grey#D: A Bela Adormecida
+Pergunta: Qual é o nome completo de Almeida Garrett?#A: João Baptista da Silva Leitão de Almeida#B: João Baptista Da Silva Limão Garrett#C: João Pedro Mil Homens Garrett#D: João Baptista Ferreira Simão Garrett
+Pergunta: Qual é a ciência que estuda os pés num sentido de saúde?#A: Podologia#B: Posologia#C: Pesologia#D: Podontologia
+Pergunta: Onde nasceu a Rainha D. Maria II?#A: Brasil#B: Portugal#C: Alemanha#D: Espanha
+Pergunta: O filme 'O Imperio do Sol' de Steven Spielberg é uma adaptação de um livro de que autor?#A: J.G. Ballard#B: Somerset Maugham#C: Edgar Rice Burroughs#D: Elmore Leonard
+Pergunta: Na mitologia nordica que nome tem o martelo usado por Thor Deus do Trovão?#A: Mjollmir#B: Asgard#C: Bifrost#D: Valhalla
+Pergunta: Que parte da mecânica de um automóvel mantém a bateria carregada enquanto o motor trabalha?#A: Alternador#B: Embraiagem#C: Radiador#D: Deposito
+Pergunta: George Costanza é um personagem de que comédia?#A: Seinfeld#B: Friends#C: Simpsons#D: The Office
+Pergunta: Qual o apelido do personagem Chandler da série Friends?#A: Bing#B: Green#C: Geller#D: Tribbiani
+Pergunta: Quem foi o escritor portugues que escreveu o livro 'O Homem Duplicado'?#A: José Saramago#B: António Lobo Antunes#C: Fernando Pessoa#D: Miguel Torga
+Pergunta: Quem foi o campeão da Eurocopa de 1992?#A: Dinamarca#B: Belgica#C: Alemanha#D: Espanha
+Pergunta: Qual o ano da morte de António de Oliveira Salazar?#A: 1970#B: 1960#C: 1964#D: 1968
+Pergunta: Qual é a flor nacional do Japão?#A: Flor de Cerejeira#B: Tsubaki#C: Sumire#D: Momo
+Pergunta: Quantas riscas tem a bandeira dos EUA?#A: 13#B: 12#C: 14#D: 11
+Pergunta: Qual dos seguintes impérios não tinha uma língua escrita?#A: Inca#B: Azteca#C: Egipcio#D: Romano
+Pergunta: Que país tem mais ilhas no mundo?#A: Suécia#B: Portugal#C: Rússia#D: Japão
+Pergunta: Qual é o país mais pequeno do mundo?#A: Vaticano#B: Brasil#C: Singapura#D: Sudão
+Pergunta: Qual é a capital do Canadá?#A: Ottawa#B: Calgary#C: Victoria#D: Toronto
+Pergunta: Onde fica o lugar mais baixo no planeta Terra?#A: Fossa das Marianas#B: Monte Pissis#C: Cerro Bonete#D: Vale de Alcântara
+Pergunta: Qual é o rio mais longo do mundo?#A: Rio Nilo#B: Rio Tejo#C: Rio Chanza#D: Rio Lis
+Pergunta: Qual é o termo na gíria utilizada pelos locais quando se referem a Nova Iorque?#A: Gotham#B: Nova Lord#C: Cidade Nova#D: Trump City
+Pergunta: Que língua tem mais palavras de acordo com entradas de dicionário?#A: Inglês#B: Marroquino#C: Checo#D: Ucraniano
+Pergunta: De que cidade são os Beatles?#A: Liverpool#B: Manchester#C: Conventry#D: Nottingham
+Pergunta: Quantas teclas tem um piano clássico?#A: 88#B: 77#C: 90#D: 100
+Pergunta: Qual a religião monoteísta que conta com o maior número de adeptos no mundo?#A: Cristianismo#B: Judaismo#C: Islamismo#D: Hinduismo
+Pergunta: Qual dos nomes abaixo nunca foi de um papa?#A: Jorge#B: Valentim#C: Eugênio#D: Vitor
+Pergunta: Quando é que a Netflix foi fundada#A: 1997#B: 2001#C: 2009#D: 2015
+Pergunta: Qual é a série mais vista da Netflix em 2019?#A: Stranger Things#B: The Walking Dead#C: Friend's#D: The 100
+Pergunta: Qual Foi A Batalha Mais Mortal Da Segunda Guerra Mundial?#A: Estalinegrado#B: Moscovo#C: El Alamein#D: La Lys
+Pergunta: Qual destes paises do continente africano não possui ligação a qualquer oceano?#A: Chade#B: Gabao#C: Quenia#D: Somalia
+Pergunta: Que nome é que se dá ao instante em que o Sol cruza o equador celeste?#A: Equinócio#B: Solsticio#C: Zénite#D: Periélio
+Pergunta: Que nome é que se dá ao momento em que o Sol atinge a maior declinação em latitude medida a partir da linha do equador?#A: Solsticio#B: Equinócio#C: Zénite#D: Periélio
+Pergunta: Qual das operas não é da autoria de Igor Stravinsky?#A: Louise#B: Pássaro de Fogo#C: A Sagração da Primavera#D: Petrouchka
+Pergunta: Ludovico Einaudi é:#A: Um pianista e compositor#B: Um jogador de futebol#C: Um político#D: Um escritor e professor
+Pergunta: Em 1969 quem co-criou com Dennis Ritchie o sistema operativo UNIX?#A: Ken Thompson#B: Bjarne Stroustrup#C: Steve Wozniak#D: Niklaus Wirth
+Pergunta: Que situação levou à morte de Jose Oliveira Salazar?#A: A queda de uma cadeira#B: Um atropelamento#C: Um atentado#D: A guerra do Ultramar
+Pergunta: Quantos fusos horários tem a Rússia?#A: 11#B: 8#C: 22#D: 6
+Pergunta: Como se chamou a cidade turca de Istambul até 1923?#A: Constantinopla#B: Moscovo#C: Zagrebe#D: Ancara
+Pergunta: Qual é a maior (não a mais alta) cordilheira de montanhas no mundo?#A: Os andes#B: Aconcágua#C: Huascarán#D: Cordilheira Teton
+Pergunta: Que artista famoso de graffiti é de Bristol?#A: Banksy#B: Jean-Michel Basquiat#C: Alex Hornest#D: Shepard Fairey
+Pergunta: O artista norueguês Edvard Munch é famoso por pintar que obra de arte icónica?#A: O Grito#B: O Berro#C: A Última Ceia#D: O Beijo
+Pergunta: Quando é que abriu o metropolitano de Londres?#A: 1863#B: 1870#C: 1860#D: 1067
+Pergunta: Quem é que criou o icónico 'Little Black Dress'?#A: Coco Chanel#B: Marc Jacobs#C: Giorgio Armani#D: Cristina Ferreira
+Pergunta: O que é que aconteceu a 20 de Julho de 1969?#A: Apollo 11 aterrou na lua#B: Revolução Agrícola#C: Portugal foi campeão europeu#D: Revolução Digital
+Pergunta: Em que ano se deu a Revolução Digital?#A: 1965#B: 2000#C: 1985#D: 1970
+Pergunta: Quem foi o autor do primeiro livro sobre a linguagem C?#A: Brian Kernighan#B: Bill Gates#C: John Backus#D: Bart Simpson
+Pergunta: Quem é conhecido como o pai da linguagem C++?#A: Bjarne Stroustrup#B: Brad Pitt#C: Linus Torvalds#D: Mark Zuckerberg
